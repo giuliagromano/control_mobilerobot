@@ -4,4 +4,4 @@
 - Modify, add, remove, or change pose, the previous goals to get a complete map of the environment.
 - Vision-based navigation of the mobile platform
 
-Look at the Report file to see more.
+The complete report is available [here](./Report.pdf).
